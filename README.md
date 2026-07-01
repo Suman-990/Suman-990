@@ -14,7 +14,7 @@
   <a href="https://leetcode.com/u/Suman_990/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
   </a>
-  <a href="https://portfolio-44.vercel.app">
+  <a href="https://portfolio-suman-44.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
@@ -150,7 +150,7 @@ AI-powered ingredient analyzer using **Gemini API**.
 
 📧 **sumanmahanty.99@gmail.com**
 
-🌐 Portfolio: https://portfolio-44.vercel.app
+🌐 Portfolio: https://portfolio-suman-44.vercel.app/
 
 💼 LinkedIn: https://www.linkedin.com/in/suman990/
 
