@@ -71,7 +71,6 @@
 | **[OmniScout](https://github.com/Suman-990)** — Automated Job Aggregation Platform | Scalable scraping engine ingesting listings from 7+ portals (LinkedIn, Indeed, Workday) while bypassing bot detection; Groq LLM-based resume parsing; automated Cloudinary error-screenshot pipeline. | `React` `Node.js` `PostgreSQL` `BullMQ` `Redis` `Playwright` |
 | **[ByteFeed](https://github.com/Suman-990)** — Social Media Platform | Mobile community platform with real-time voice channels & DM calls; <200ms avg message latency under load; LiveKit (WebRTC) + WebSockets for real-time comms. | `Golang` `React Native` `NativeWind` `PostgreSQL` `Cloudinary` `Livekit` |
 
-> 💡 *Replace the placeholder links above with the actual repo URLs for each project.*
 
 ---
 
