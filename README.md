@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working as a **Full Stack Developer Intern @ Mentorque** (Remote)
+- 🔭 Worked as a **Full Stack Developer Intern @ Mentorque** (Remote)
 - 🏆 **Top 0.02% on LeetCode** — 800+ problems solved in DSA
 - 🎓 B.C.A. student at **Arka Jain University** (CGPA: 9.1/10), Class of 2028
 - 🥇 Winner, **TechSprint Hackathon** by Google Developer Groups, AJU
